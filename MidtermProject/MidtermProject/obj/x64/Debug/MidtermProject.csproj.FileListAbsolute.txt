@@ -1,0 +1,5 @@
+J:\ME 578 Systems\Midterm\MidtermProject\MidtermProject\bin\x64\Debug\MidtermProject.exe.config
+J:\ME 578 Systems\Midterm\MidtermProject\MidtermProject\bin\x64\Debug\MidtermProject.exe
+J:\ME 578 Systems\Midterm\MidtermProject\MidtermProject\bin\x64\Debug\MidtermProject.pdb
+J:\ME 578 Systems\Midterm\MidtermProject\MidtermProject\obj\x64\Debug\MidtermProject.exe
+J:\ME 578 Systems\Midterm\MidtermProject\MidtermProject\obj\x64\Debug\MidtermProject.pdb

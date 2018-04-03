@@ -1,0 +1,36 @@
+/BATCH  
+! /COM,ANSYS RELEASE Release 18.1      BUILD 18.1      UP20170403       11:19:06  
+!*  
+/AUX15  
+!*  
+IOPTN,IGES,SMOOTH   
+IOPTN,MERGE,YES 
+IOPTN,SOLID,YES 
+IOPTN,SMALL,YES 
+IOPTN,GTOLER, DEFA  
+IGESIN,'GoldBeam','igs','ME 578 Systems\Midterm\Tests\' 
+! VPLOT   
+!*  
+FINISH  
+/PREP7  
+!*  
+ET,1,SOLID186   
+!*  
+!*  
+MPTEMP,,,,,,,,  
+MPTEMP,1,0  
+MPDATA,EX,1,,3e11   
+MPDATA,PRXY,1,,.45  
+CM,_Y,VOLU  
+VSEL, , , ,       1 
+CM,_Y1,VOLU 
+CHKMSH,'VOLU'   
+CMSEL,S,_Y  
+!*  
+VSWEEP,_Y1  
+!*  
+CMDELE,_Y   
+CMDELE,_Y1  
+CMDELE,_Y2  
+!*  
+! LGWRITE,'Meshed','','J:\MU97CK~L\MIDTERM\Ansys\',COMMENT  

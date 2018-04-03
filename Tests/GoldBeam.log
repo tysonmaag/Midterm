@@ -1,0 +1,52 @@
+﻿UG to IGES
+! INFO-     NX V10.0 / IGES Specification 5.3
+! INFO-      
+! INFO-     Start of Translation: 1-APR-2018  8:51:04 PM
+! INFO-      
+! STATUS-   Converting Part: J:\ME 578 Systems\Midterm\GoldBeam.prt
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Input Entities
+! SUMMARY-  For Part: J:\ME 578 Systems\Midterm\GoldBeam.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Point .......................:     1
+! SUMMARY-  Line ........................:    28
+! SUMMARY-  B-Curve .....................:    24
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Layer Category ..............:     6
+! SUMMARY-  Font ........................:     2
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     2
+! SUMMARY-  Parameter ...................:     2
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Face .....................:     6
+! SUMMARY-  Trim Curve ..................:     6
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             81
+! STATUS-    
+! STATUS-   Converting to Output Form (Phase 2 of 3): 1-APR-2018 8:51:05 PM
+! STATUS-    
+! STATUS-   Creating the IGES file (Phase 3 of 3): 1-APR-2018  8:51:05 PM
+! SUMMARY-   
+! SUMMARY-  Summary of IGES Output Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Point ........................     1
+! SUMMARY-  Line .........................    12
+! SUMMARY-  BSpline Curve ................     8
+! SUMMARY-  Composite Curve ..............     4
+! SUMMARY-  Curve on Surface .............     2
+! SUMMARY-  Trimmed Surface ..............     2
+! SUMMARY-  BSpline Surface ..............     6
+! SUMMARY-  Color ........................     3
+! SUMMARY-  Name .........................     4
+! SUMMARY-  Transformation ...............     1
+! SUMMARY-  Definition Levels ............     5
+! SUMMARY-  Level Function ...............     5
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             53
+! INFO-      
+! INFO-     End of Translation: 1-APR-2018  8:51:05 PM
+! INFO-      

@@ -1,0 +1,6 @@
+J:\ME 578 Systems\Midterm\MidtermProject\MidtermProject\bin\Debug\MidtermProject.exe.config
+J:\ME 578 Systems\Midterm\MidtermProject\MidtermProject\bin\Debug\MidtermProject.exe
+J:\ME 578 Systems\Midterm\MidtermProject\MidtermProject\bin\Debug\MidtermProject.pdb
+J:\ME 578 Systems\Midterm\MidtermProject\MidtermProject\obj\Debug\MidtermProject.csprojResolveAssemblyReference.cache
+J:\ME 578 Systems\Midterm\MidtermProject\MidtermProject\obj\Debug\MidtermProject.exe
+J:\ME 578 Systems\Midterm\MidtermProject\MidtermProject\obj\Debug\MidtermProject.pdb

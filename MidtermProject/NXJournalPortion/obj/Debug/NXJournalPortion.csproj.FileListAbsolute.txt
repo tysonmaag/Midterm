@@ -1,0 +1,13 @@
+J:\ME 578 Systems\Midterm\MidtermProject\NXJournalPortion\obj\Debug\NXJournalPortion.csprojResolveAssemblyReference.cache
+J:\ME 578 Systems\Midterm\MidtermProject\NXJournalPortion\bin\Debug\NXJournalPortion.exe.config
+J:\ME 578 Systems\Midterm\MidtermProject\NXJournalPortion\bin\Debug\NXJournalPortion.exe
+J:\ME 578 Systems\Midterm\MidtermProject\NXJournalPortion\bin\Debug\NXJournalPortion.pdb
+J:\ME 578 Systems\Midterm\MidtermProject\NXJournalPortion\bin\Debug\NXOpen.dll
+J:\ME 578 Systems\Midterm\MidtermProject\NXJournalPortion\bin\Debug\NXOpen.UF.dll
+J:\ME 578 Systems\Midterm\MidtermProject\NXJournalPortion\bin\Debug\NXOpen.Utilities.dll
+J:\ME 578 Systems\Midterm\MidtermProject\NXJournalPortion\bin\Debug\NXOpenUI.dll
+J:\ME 578 Systems\Midterm\MidtermProject\NXJournalPortion\bin\Debug\NXOpen.xml
+J:\ME 578 Systems\Midterm\MidtermProject\NXJournalPortion\bin\Debug\NXOpen.Utilities.xml
+J:\ME 578 Systems\Midterm\MidtermProject\NXJournalPortion\bin\Debug\NXOpenUI.xml
+J:\ME 578 Systems\Midterm\MidtermProject\NXJournalPortion\obj\Debug\NXJournalPortion.exe
+J:\ME 578 Systems\Midterm\MidtermProject\NXJournalPortion\obj\Debug\NXJournalPortion.pdb
